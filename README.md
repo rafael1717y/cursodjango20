@@ -1,5 +1,8 @@
 # cursodjango20
 Curso Django
+
+[![Build Status](https://travis-ci.com/rafael1717y/cursodjango20.svg?branch=master)](https://travis-ci.com/rafael1717y/cursodjango20)
+
 Suportada versão 3 do Python
 
 Para instalar:
