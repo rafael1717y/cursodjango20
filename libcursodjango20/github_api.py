@@ -2,7 +2,11 @@ import requests
 
 
 def buscar_avatar(usuario):
-    '''Busca o avatar de um usuário no Github'''
+    '''
+
+    Busca o avatar de um usuário no Github
+
+    '''
 
     url = f'https://api.github.com/users/{usuario}'
     resp = requests.get(url)
