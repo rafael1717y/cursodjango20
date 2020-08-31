@@ -3,4 +3,6 @@ chardet==3.0.4
 idna==2.10
 requests==2.24.0
 urllib3==1.25.10
+py>=1.9.0
+more-itertools>=8.4.0
 -r requirements.txt
